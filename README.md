@@ -10,7 +10,7 @@
 
 ### 👉[百度网盘🔗](https://pan.baidu.com/s/1JTXpwZURinj_XnacikTT2A?pwd=neuq)
 
-**提取码：neuq**
+提取码：neuq
 
 ### **快速定位资源**  
 
@@ -95,8 +95,6 @@
 
 ### 如何正确提交教材
 
-
-
 在提交新资源之前最好确保以下几点⚠️：
 
 - 你提供的教材是安全的（不包含敏感内容、版权合规等）。
@@ -107,9 +105,10 @@
 在确保悉知以上内容后，**可以通过[QQ群聊](https://qm.qq.com/q/36WlcHyZGo)或者[Github Issue](https://github.com/Asterless/NEUQ-Textbook/issues/new)提交教材**
 
 确保你发送的信息里包含：
-  - 课程类型_课程编号_课程名称
-  - 教材名称作者_版本_ISBN
-  - (若能提供[教务管理系统 → 教材查看](https://jwxt.neuq.edu.cn)界面截图则)
+
+- 课程类型_课程编号_课程名称
+- 教材名称作者_版本_ISBN
+- (若能提供[教务管理系统 → 教材查看](https://jwxt.neuq.edu.cn)界面截图则)
 
 又或者发送邮件至：**张同学** <202315099@stu.neu.edu.cn>
 
