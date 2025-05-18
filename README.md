@@ -1,6 +1,7 @@
 # NEUQ 大学教材共享网盘 📚
 
-**QQ群聊✨：[1011277748](https://qm.qq.com/q/36WlcHyZGo)**
+**加入🐧[QQ群聊：1011277748](https://qm.qq.com/q/36WlcHyZGo) 获取最新资源同步信息**
+
 **最后更新日期**：2025-5-18  
 **免责声明**：资源仅供学习交流，禁止商业用途！如有侵权内容，请联系管理员删除。
 
@@ -97,18 +98,18 @@
 
 在提交新资源之前最好确保以下几点⚠️：
 
-- 你提供的教材是安全的（不包含敏感内容、版权合规等）。
+- 你提供的教材是安全的（不包含敏感内容等）。
 - 你提供的教材是正确的（不出现页码缺损、版本错误等）
 - 你提供的教材不与现有教材重复。
 - 你了解本项目的目录结构和文件命名规则。
 
-在确保悉知以上内容后，**可以通过[QQ群聊](https://qm.qq.com/q/36WlcHyZGo)或者[Github Issue](https://github.com/Asterless/NEUQ-Textbook/issues/new)提交教材**
+在确保悉知以上内容后，**可以通过[🐧QQ群聊](https://qm.qq.com/q/36WlcHyZGo)或者[Github Issue](https://github.com/Asterless/NEUQ-Textbook/issues/new)提交教材**
 
 确保你发送的信息里包含：
 
 - 课程类型_课程编号_课程名称
 - 教材名称作者_版本_ISBN
-- (若能提供[教务管理系统 → 教材查看](https://jwxt.neuq.edu.cn)界面截图则)
+- (若能提供[教务管理系统 → 教材查看](https://jwxt.neuq.edu.cn)界面截图则更好)
 
 又或者发送邮件至：**张同学** <202315099@stu.neu.edu.cn>
 
